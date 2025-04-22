@@ -1,1 +1,2 @@
-# TrashAI_Project
+## TrashAI_Project
+First, delete all the 
