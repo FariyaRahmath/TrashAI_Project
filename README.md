@@ -1,15 +1,15 @@
-## TrashAI_Project
+# TrashAI_Project
 
-# Installation and File Download
+## Installation and File Download
 1. Uninstall all the Python IDLE, Jupyter, any local servers (like WampServer) if it is already installed in your system/ laptop.
 2. Then, install the Python IDLE and WampServer that I have given in the main branch.
 3. There are 2 more branches in addition to the main branch - Training and Testing branches.
 4. Download all the files and folders of the Training and Testing branches as well.
 5. Keep 2 separate folders in your systems for the Training and Testing branches' files and folders.
 
-# Project Execution
+## Project Execution
 1. Click Start -> Start WampServer
-2. There will be a up arrow in the right corner of the taskbar. Click it and then click on the WampServer symbol. Then click "Start All Services".
+2. There will be an up arrow in the right corner of the taskbar. Click it and then click on the WampServer symbol. Then click "Start All Services".
 3. Then open Chrome browser and type "localhost".
 4. After that, open the main.py file of Training folder. You should see a message in it called "Debugger is now active".
 5. Then in a new tab in Chrome, type "localhost:5000".
