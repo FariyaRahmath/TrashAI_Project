@@ -1,0 +1,1 @@
+# TrashAI_Project
